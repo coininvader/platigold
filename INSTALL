@@ -1,0 +1,9 @@
+Building PlatiGold
+
+See doc/readme-qt.rst for instructions on building PlatiGold QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PlatiGold.
+
+See doc/build-*.txt for instructions on building PlatiGoldd,
+the intended-for-services, no-graphical-interface, reference
+implementation of PlatiGold.
